@@ -33,11 +33,11 @@ The calculator is fully responsive and works smoothly on:
 
 ## 🌐 Live Demo
 
-[Live Demo Link]
+[Live Demo Link](https://calculator-code-alpha.vercel.app/)
 
 ## 📂 GitHub Repository
 
-[GitHub Repo Link]
+[GitHub Repo Link](https://github.com/mfarhanahmedcode/CodeAlpha_Calculator/tree/main)
 
 ## 📸 Project Preview
 
